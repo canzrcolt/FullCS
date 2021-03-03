@@ -1,0 +1,8 @@
+starting 3/3/2021 9:46a
+
+1. Learn C#
+2. Learn asp.net razor mvc .net5
+3. create new postings page which is just in myportal admin> Posting
+
+
+while learning, see if there are faster ways for optimizations and let paul know 
