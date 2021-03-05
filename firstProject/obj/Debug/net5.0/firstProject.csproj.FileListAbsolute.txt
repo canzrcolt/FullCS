@@ -1,0 +1,16 @@
+C:\Users\canzy\Coding\FullCS\firstProject\bin\Debug\net5.0\firstProject.exe
+C:\Users\canzy\Coding\FullCS\firstProject\bin\Debug\net5.0\firstProject.deps.json
+C:\Users\canzy\Coding\FullCS\firstProject\bin\Debug\net5.0\firstProject.runtimeconfig.json
+C:\Users\canzy\Coding\FullCS\firstProject\bin\Debug\net5.0\firstProject.runtimeconfig.dev.json
+C:\Users\canzy\Coding\FullCS\firstProject\bin\Debug\net5.0\firstProject.dll
+C:\Users\canzy\Coding\FullCS\firstProject\bin\Debug\net5.0\ref\firstProject.dll
+C:\Users\canzy\Coding\FullCS\firstProject\bin\Debug\net5.0\firstProject.pdb
+C:\Users\canzy\Coding\FullCS\firstProject\obj\Debug\net5.0\firstProject.csprojAssemblyReference.cache
+C:\Users\canzy\Coding\FullCS\firstProject\obj\Debug\net5.0\firstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\canzy\Coding\FullCS\firstProject\obj\Debug\net5.0\firstProject.AssemblyInfoInputs.cache
+C:\Users\canzy\Coding\FullCS\firstProject\obj\Debug\net5.0\firstProject.AssemblyInfo.cs
+C:\Users\canzy\Coding\FullCS\firstProject\obj\Debug\net5.0\firstProject.csproj.CoreCompileInputs.cache
+C:\Users\canzy\Coding\FullCS\firstProject\obj\Debug\net5.0\firstProject.dll
+C:\Users\canzy\Coding\FullCS\firstProject\obj\Debug\net5.0\ref\firstProject.dll
+C:\Users\canzy\Coding\FullCS\firstProject\obj\Debug\net5.0\firstProject.pdb
+C:\Users\canzy\Coding\FullCS\firstProject\obj\Debug\net5.0\firstProject.genruntimeconfig.cache
