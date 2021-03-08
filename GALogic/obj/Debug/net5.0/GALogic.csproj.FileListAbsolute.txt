@@ -1,0 +1,16 @@
+C:\Users\canzy\Coding\FullCS\GALogic\bin\Debug\net5.0\GALogic.exe
+C:\Users\canzy\Coding\FullCS\GALogic\bin\Debug\net5.0\GALogic.deps.json
+C:\Users\canzy\Coding\FullCS\GALogic\bin\Debug\net5.0\GALogic.runtimeconfig.json
+C:\Users\canzy\Coding\FullCS\GALogic\bin\Debug\net5.0\GALogic.runtimeconfig.dev.json
+C:\Users\canzy\Coding\FullCS\GALogic\bin\Debug\net5.0\GALogic.dll
+C:\Users\canzy\Coding\FullCS\GALogic\bin\Debug\net5.0\ref\GALogic.dll
+C:\Users\canzy\Coding\FullCS\GALogic\bin\Debug\net5.0\GALogic.pdb
+C:\Users\canzy\Coding\FullCS\GALogic\obj\Debug\net5.0\GALogic.csprojAssemblyReference.cache
+C:\Users\canzy\Coding\FullCS\GALogic\obj\Debug\net5.0\GALogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\canzy\Coding\FullCS\GALogic\obj\Debug\net5.0\GALogic.AssemblyInfoInputs.cache
+C:\Users\canzy\Coding\FullCS\GALogic\obj\Debug\net5.0\GALogic.AssemblyInfo.cs
+C:\Users\canzy\Coding\FullCS\GALogic\obj\Debug\net5.0\GALogic.csproj.CoreCompileInputs.cache
+C:\Users\canzy\Coding\FullCS\GALogic\obj\Debug\net5.0\GALogic.dll
+C:\Users\canzy\Coding\FullCS\GALogic\obj\Debug\net5.0\ref\GALogic.dll
+C:\Users\canzy\Coding\FullCS\GALogic\obj\Debug\net5.0\GALogic.pdb
+C:\Users\canzy\Coding\FullCS\GALogic\obj\Debug\net5.0\GALogic.genruntimeconfig.cache
